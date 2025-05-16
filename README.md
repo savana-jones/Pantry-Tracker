@@ -4,7 +4,7 @@ Pantry Tracker is a responsive inventory management system built with React, Nex
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - React  
 - Next.js  
